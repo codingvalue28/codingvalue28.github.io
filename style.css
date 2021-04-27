@@ -1,0 +1,16 @@
+body
+{
+	background-image: url(galaxy.JPG);
+	background-size: cover;
+}
+ul
+{
+	background-color: rgba(255,170, 224,0.35);
+
+}
+li
+{
+	color: blue;
+	list-style: none;
+	display: inline-block;
+}
